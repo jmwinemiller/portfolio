@@ -1,0 +1,12 @@
+baseURL = "https://jmwinemiller.github.io/"
+languageCode = "en-us"
+title = "Personal Portfolio Site"
+theme = "ananke"
+[params]
+  author = "Jordan Winemiller"
+  description = "Personal data science and statistics portfolio site."
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/jmwinemiller"
