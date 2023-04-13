@@ -1,0 +1,10 @@
+<!--pybook.html-->
+<h3>
+  <a href="/notebooks/{{.Get 0}}.html">
+    Click here to view this notebook in full screen
+  </a>
+</h3>
+ <iframe src="/notebooks/{{.Get 0}}.html"
+  style="height:{{.Get 1}}px;width:{{.Get 2}}%;border:none;overflow:hidden"
+  scrolling="yes">
+</iframe>

@@ -32,3 +32,6 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
   name = "github"
   url = "https://github.com/jmwinemiller"
+[[params.ananke_socials]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/jordan-winemiller/"
