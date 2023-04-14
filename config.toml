@@ -6,7 +6,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLangauge = "en"
 SectionPageMenu = "main"
-Pageinate = 3
+Pageinate = 4
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -27,7 +27,7 @@ enableRobotsTXT = true
   favicon = ""
   site_logo = ""
   description = "Personal data science and statistics portfolio site."
-  recent_posts_number = 3
+  recent_posts_number = 4
 
 [[params.ananke_socials]]
   name = "github"
