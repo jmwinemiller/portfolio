@@ -1,2 +1,2 @@
 # portfolio
-Data science and statistics personal portfolio website
+Data science and statistics personal portfolio website using Hugo.
