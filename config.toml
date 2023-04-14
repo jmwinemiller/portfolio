@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = "Jordan Winemiller"
-  favicon = ""
+  favicon = "favicon.png"
   site_logo = ""
   description = "Personal data science and statistics portfolio site."
   recent_posts_number = 4
