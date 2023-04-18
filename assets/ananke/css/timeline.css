@@ -96,6 +96,8 @@ timeline
 /* body size */
 .timeline .content .body {
   padding: 5px 30px;
+  text-align: left;
+  font-size: medium;
 }
 
 /* responsive for small devices*/
