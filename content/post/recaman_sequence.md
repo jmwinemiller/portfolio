@@ -6,6 +6,12 @@ featured_image: "recaman_visual.jpg"
 tags: ["R", "R Markdown", "Visualization"]
 ---
 
-## Recaman's sequence visualization over a background from stable diffusion using ggplot
+### Recaman's sequence visualization over a background from stable diffusion using ggplot
 
-{{< pybook recaman_visual 2000 150 >}}
+<!--more-->
+
+{{< code_button
+    "https://github.com/jmwinemiller/recaman-sequence-visual"
+    "Code for this project" >}}
+
+{{< pybook recaman_visual 2000 100 >}}

@@ -1,0 +1,9 @@
+<!--event.html-->
+{{ $event_date := .Get "date" | time }}
+<div class="container">
+  <div class="content">
+    <div class="title">{{ .Get "title" }}</div>
+    <div class="body">{{ .Inner }}</div>
+  </div>
+  <div class="date">{{ $event_date.Year }}</div>
+</div>

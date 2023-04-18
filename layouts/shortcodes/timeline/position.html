@@ -1,0 +1,26 @@
+<!--position.html-->
+{{/*  {{ $from := .Get "from" | time }}
+{{ $to := .Get "to" | time }}
+{{ $diff := mul ($to.Sub $from).Hours 0.00136986301 }}
+{{ $months := mod $diff 12 }}
+{{ $years := math.Floor (div $months 12) }}
+{{ $year_measure := cond (eq 1 $years) "year" "years" }}
+{{ $month_measure := cond (eq 1 $months) "month" "months" }}
+{{ $duration := "" }}
+{{ if gt $years 0 }}
+  {{ $duration = printf "%s %.0f %s" $duration $years $year_measure }}
+{{ end }}
+{{ if gt $months 0 }}
+  {{ $duration = printf "%s %d %s" $duration $months $month_measure }}
+{{ end }}  */}}
+
+
+
+<div class="container">
+  <div class="content">
+    <div class="title">{{ .Get "title" }}</div>
+    <div class="epoch">{{ .Get "duration" }}</div>
+    <div class="body">{{ .Inner }}</div>
+  </div>
+  <div class="date">{{ .Get "year" }}</div>
+</div>

@@ -6,9 +6,12 @@ featured_image: "jackson_square.jpg"
 tags: ["Python", "Jupyter", "Visualization"]
 ---
 
-# Map of New Orleans with crime data from March 17 to March 21, 2023
+### Map of New Orleans with crime data from March 17 to March 21, 2023
 
+<!--more-->
 
-{{< pybook new_orleans_crime_map 2500 150>}}
+{{< code_button
+    "https://github.com/jmwinemiller/geospatial_analysis"
+    "Code for this project" >}}
 
-{{< code_button "https://github.com/jmwinemiller/geospatial_analysis" Code >}}
+{{< pybook new_orleans_crime_map 2500 100>}}
