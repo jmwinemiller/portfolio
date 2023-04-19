@@ -6,6 +6,10 @@ menu: main
 featured_image: "notebook.jpg"
 ---
 
+## Curriculum Vitae
+
 {{< resume JordanWinemiller_CV >}}
+
+## Summary Resume
 
 {{< resume JordanWinemiller_Resume >}}
