@@ -54,6 +54,7 @@ resume
 /* card title format */
 .resume .content .title {
   padding: 5px 30px;
+  font-size: 18px;
   font-weight: bold;
   text-align: left;
 }
@@ -61,6 +62,7 @@ resume
 /* time epoch format*/
 .resume .content .epoch {
   color: #404040;
+  font-size: 16px;
   text-align: right;
   position: absolute;
   top: 0;
@@ -75,8 +77,18 @@ resume
   font-size: medium;
 }
 
-.resume .content .body .li {
-  font-size: small;
+.resume .content .body .department {
+  font-style: italic;
+  font-size: 16px;
+}
+
+.resume .content .body .position .section {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.resume .content .body .position li {
+  font-size: 14px;
 }
 /* responsive for medium devices*/
 @media screen and (max-width: 900px) {

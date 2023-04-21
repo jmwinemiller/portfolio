@@ -18,7 +18,10 @@
   <div class="content">
     <div class="title">{{ .Get "title" }}</div>
     <div class="epoch">{{ .Get "duration" }}</div>
-    <div class="body">{{ .Inner }}</div>
+    <div class="body">
+      <div class="department">{{ .Get "department" }}</div>
+      {{ .Inner }}
+    </div>
   </div>
   <div class="date">{{ .Get "year" }}</div>
 </div>

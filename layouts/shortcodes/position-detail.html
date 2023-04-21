@@ -1,0 +1,8 @@
+<!--position-task.html-->
+{{ $section := ne (.Get "section")  "" }}
+<div class="position">
+  {{ if $section }}
+  <div class="section">{{ .Get "section" }}</div>
+  {{ end }}
+  <div class="detail">{{ .Inner }}</div>
+</div>
