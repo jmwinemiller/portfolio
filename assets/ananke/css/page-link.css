@@ -1,0 +1,31 @@
+/************************************
+page-links
+************************************/
+
+.page-link {
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.page-link button {
+  padding: 2px 5px 2px 5px;
+  border: none;
+  border-radius: 6px;
+  font-size: large;
+  background-color: #e5e7eb;
+}
+
+.page-link button:hover {
+  background-color: #2563eb;
+  transition-duration: 0ms;
+}
+
+.page-link a {
+  color: #357edd;
+}
+
+.page-link a:hover {
+  color: #ffffff;
+  transition-duration: 0ms;
+}

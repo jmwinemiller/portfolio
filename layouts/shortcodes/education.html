@@ -1,0 +1,26 @@
+<!--education.html-->
+{{ $event_date := .Get "date" | time }}
+{{ $info := ne (.Get "info") "" }}
+{{ $detail := ne (.Get "detail") "" }}
+<div class="container">
+  <div class="content">
+    <div class="title">{{ .Get "title" }}</div>
+    <div class="body">
+      <h3>
+        {{ .Get "degree" }}
+        <br>
+        <i>{{ .Get "institution" }}</i>
+      </h3>
+      {{ if $info}}
+      <h4>
+        <i>{{ .Get "info" }}</i>
+        {{ if $detail }}
+        <br>
+        <i>{{ .Get "detail" }}</i>
+        {{ end }}
+      </h4>
+      {{ end }}
+    </div>
+  </div>
+  <div class="date">{{ $event_date.Year }}</div>
+</div>

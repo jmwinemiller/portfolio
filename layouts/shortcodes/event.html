@@ -3,7 +3,9 @@
 <div class="container">
   <div class="content">
     <div class="title">{{ .Get "title" }}</div>
-    <div class="body">{{ .Inner }}</div>
+    <div class="body">
+      {{ .Inner }}
+    </div>
   </div>
   <div class="date">{{ $event_date.Year }}</div>
 </div>
