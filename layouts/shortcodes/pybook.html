@@ -1,10 +1,12 @@
 <!--pybook.html-->
-<h3>
-  <a href="/portfolio/{{.Get 0}}.html">
-    Click here to view this notebook in full screen
-  </a>
-</h3>
+<div class="page-link">
+  <button>
+    <a href="/portfolio/{{.Get 0}}.html">
+      Click here to view this notebook in full screen
+    </a>
+  </button>
+</div>
  <iframe src="/portfolio/{{.Get 0}}.html"
-  style="height:{{.Get 1}}px;width:{{.Get 2}}%;border:none;overflow:hidden"
+  style="margin:15px;height:{{.Get 1}}px;width:{{.Get 2}}%;border:none;overflow:hidden"
   scrolling="yes">
 </iframe>

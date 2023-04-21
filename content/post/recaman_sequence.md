@@ -14,4 +14,6 @@ tags: ["R", "R Markdown", "Visualization"]
     "https://github.com/jmwinemiller/recaman-sequence-visual"
     "Code for this project" >}}
 
+#
+
 {{< pybook recaman_visual 2000 100 >}}

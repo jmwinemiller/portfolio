@@ -14,4 +14,6 @@ tags: ["Python", "Jupyter", "Visualization"]
     "https://github.com/jmwinemiller/geospatial_analysis"
     "Code for this project" >}}
 
+#
+
 {{< pybook new_orleans_crime_map 2500 100 >}}
