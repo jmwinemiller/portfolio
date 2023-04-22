@@ -242,3 +242,12 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
   {{</ position >}}
 
 {{</ resume >}}
+
+### Education
+
+{{< resume >}}
+
+
+
+
+{{</ resume >}}

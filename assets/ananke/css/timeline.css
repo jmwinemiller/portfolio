@@ -114,7 +114,7 @@ timeline
   .timeline .container .date {
     font-size: small;
     transform: rotate(-90deg);
-    left: -5%;
+    left: -25%;
     top: 30px;
   }
 
