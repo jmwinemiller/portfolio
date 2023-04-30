@@ -52,7 +52,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     {{</ position-detail >}}
 
     {{< position-detail
-      section="Key Responibilities"
+      section="Key Responsibilities"
       >}}
         <li>Provided guidance to members and participated in cross-departmental projects establishing the company as a leader in data science</li>
         <li>Planned and executed department strategy for incorporating intelligence into product offerings</li>
@@ -94,7 +94,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     {{</ position-detail >}}
 
     {{< position-detail
-      section="Key Responibilities"
+      section="Key Responsibilities"
       >}}
         <li>Led department project planning, design, and implementation</li>
         <li>Mentored data analysts, data engineers, and data scientists</li>
@@ -129,7 +129,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     {{</ position-detail >}}
 
     {{< position-detail
-      section="Key Responibilities"
+      section="Key Responsibilities"
       >}}
         <li>Implemented Bash shell scripts to decrease prediction times for models written in python</li>
         <li>Integrated with three (3) external companies to populate data warehouse with external data used in algorithms</li>
@@ -165,7 +165,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     {{</ position-detail >}}
 
     {{< position-detail
-      section="Key Responibilities"
+      section="Key Responsibilities"
       >}}
 
     {{</ position-detail >}}
@@ -198,7 +198,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     {{</ position-detail >}}
 
     {{< position-detail
-      section="Key Responibilities"
+      section="Key Responsibilities"
       >}}
         <li>Worked across multiple functional departments translating business problems into solvable cases with emphasis on anticipating future state product requirements</li>
         <li>Led development teams in building customer retention reporting platform using WCF, ASP.NET Web API, and React JS</li>
@@ -210,6 +210,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
   {{< position
     title="Insight Global - Software Engieer"
     duration="8 months"
+    department="Internal Solution Team for Automotive CRM Solution"
     year="2015" >}}
 
     {{< position-detail >}}
@@ -226,6 +227,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
   {{< position
     title="Kansas City Life - Systems Analyst"
     duration="1 year 1 months"
+    department="Illustration Team for Actuarial Department"
     year="2015" >}}
 
     {{< position-detail >}}
@@ -247,7 +249,26 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
 
 {{< resume >}}
 
+  {{< education
+    title="Master of Science"
+    degree="Applied Statistics and Analytics"
+    date="2019-05-07" >}}
 
+    {{< education-detail    
+      institution="University of Kansas Medical Center"
+      info="Graduated Mu Sigma Rho"
+      detail="National Honorary Society for Statistics" >}}
 
+  {{</ education >}}
+
+  {{< education
+    title="Bachelor of Science"
+    degree="Mathematics and Statistics"
+    date="2013-12-17" >}}
+
+    {{< education-detail 
+      institution="University of Missouri-Kansas City" >}}
+
+  {{</ education >}}
 
 {{</ resume >}}

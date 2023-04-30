@@ -1,0 +1,10 @@
+<!--education-detail.html-->
+{{ $info := ne (.Get "info") "" }}
+{{ $detail := ne (.Get "detail") "" }}
+<div class="institution">{{ .Get "institution"}}</div>
+{{ if $info}}
+<div class="info">{{ .Get "info" }}</div>
+{{ end }}
+{{ if $detail }}
+<div class="detail">{{ .Get "detail" }}</div>
+{{ end }}

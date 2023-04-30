@@ -1,3 +1,25 @@
 /************************************
 education
 ************************************/
+
+.content .body .degree {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.content .body .institution {
+  font-style: italic;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.content .body .info {
+  font-weight: 500;
+  font-size: small;
+}
+
+.content .body .detail {
+  font-style: italic;
+  font-weight: 300;
+  font-size: small;
+}

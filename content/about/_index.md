@@ -29,15 +29,23 @@ featured_image: "aspen.jpg"
   {{< education
     title="Master of Science"
     degree="Applied Statistics and Analytics"
-    institution="University of Kansas Medical Center"
-    info="Graduated Mu Sigma Rho"
-    detail="National Honorary Society for Statistics"
     date="2019-05-07" >}}
+
+    {{< education-detail
+      institution="University of Kansas Medical Center"
+      info="Graduated Mu Sigma Rho"
+      detail="National Honorary Society for Statistics" >}}
+
+  {{</ education >}}
 
   {{< education
     title="Bachelor of Science"
     degree="Mathematics and Statistics"
-    institution="University of Missouri-Kansas City"
     date="2013-12-17" >}}
+
+    {{< education-detail
+      institution="University of Missouri-Kansas City" >}}
+
+  {{</ education >}}
 
 {{</ timeline >}}

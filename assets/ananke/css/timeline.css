@@ -76,7 +76,7 @@ timeline
 
 /* card title format */
 .timeline .content .title {
-  padding: 5px 30px;
+  padding: 0px 30px;
   font-weight: bold;
   text-align: left;
 }
@@ -93,7 +93,7 @@ timeline
 
 /* body size */
 .timeline .content .body {
-  padding: 5px 30px;
+  padding: 0px 30px;
   text-align: left;
   font-size: medium;
 }
