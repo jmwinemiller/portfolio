@@ -249,12 +249,23 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
 
 {{< resume >}}
 
+  {{< event
+   title="Biostatistics Graduate Certificate"
+   date="2021-12-17">}}
+    <div class="institution">
+      University of Kansas Medical Center
+    </div>
+    <div class="detail">
+      Continued coursework in Bayesian Statistics, Linear Models, Survival Analysis, Statistical Inference and Nonparametric Statistics
+    </div>
+  {{</ event >}}
+
   {{< education
     title="Master of Science"
     degree="Applied Statistics and Analytics"
     date="2019-05-07" >}}
 
-    {{< education-detail    
+    {{< education-detail
       institution="University of Kansas Medical Center"
       info="Graduated Mu Sigma Rho"
       detail="National Honorary Society for Statistics" >}}
@@ -266,7 +277,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     degree="Mathematics and Statistics"
     date="2013-12-17" >}}
 
-    {{< education-detail 
+    {{< education-detail
       institution="University of Missouri-Kansas City" >}}
 
   {{</ education >}}

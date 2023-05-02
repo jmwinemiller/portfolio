@@ -15,14 +15,12 @@ featured_image: "aspen.jpg"
   {{< event
    title="Biostatistics Graduate Certificate"
    date="2021-12-17">}}
-    <h3>
-    <i>
+    <div class="institution">
       University of Kansas Medical Center
-    </h3>
-    <h4>
+    </div>
+    <div class="detail">
       Continued coursework in Bayesian Statistics, Linear Models, Survival Analysis, Statistical Inference and Nonparametric Statistics
-    </i>
-    </h4>
+    </div>
   {{</ event >}}
 
 
