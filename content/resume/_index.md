@@ -28,7 +28,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     title="AdPredictive - Senior Data Scientist"
     department="Intelligent Advertising for Marketing Solutions"
     duration="2 years 7 months"
-    year="2022" >}}
+    year="2020" >}}
 
     {{< position-detail
       section="Projects"
@@ -70,7 +70,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     title="AutoAlert - Senior Data Scientist"
     department="Data Science Team for Automotive Marketing Solution"
     duration="8 months"
-    year="2020" >}}
+    year="2019" >}}
 
     {{< position-detail
       section="Projects"
@@ -109,7 +109,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     title="AutoAlert - Data Scientist"
     department="Data Science Team for Automotive Marketing Solution"
     duration="1 year 6 months"
-    year="2019" >}}
+    year="2018" >}}
 
     {{< position-detail
       section="Projects"
@@ -142,7 +142,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     title="AutoAlert - Senior Database Developer"
     department="Intelligent Marketing Team for Automotive Marketing Solution"
     duration="1 year"
-    year="2018" >}}
+    year="2017" >}}
 
     {{< position-detail
       section="Projects"
@@ -179,7 +179,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     title="VinSolutions - Senior Data Analyst"
     department="Business Intelligence Team for Automotive CRM Solution"
     duration="1 year 7 months"
-    year="2017" >}}
+    year="2015" >}}
 
     {{< position-detail
       section="Projects"
@@ -228,7 +228,7 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     title="Kansas City Life - Systems Analyst"
     duration="1 year 1 months"
     department="Illustration Team for Actuarial Department"
-    year="2015" >}}
+    year="2014" >}}
 
     {{< position-detail >}}
       <li>Continuously updated product guides, data dashboards, state approvals, interest rates for all interest sensitive products, and fund expenses and names for variable universal life product</li>

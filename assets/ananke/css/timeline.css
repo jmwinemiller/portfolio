@@ -43,6 +43,7 @@ timeline
   border-radius: 50%;
   z-index: 1;
 }
+
 /* date display */
 .timeline .container .date {
   position: absolute;
@@ -96,6 +97,12 @@ timeline
   padding: 0px 30px;
   text-align: left;
   font-size: medium;
+}
+
+.timeline .content .body p {
+  padding: 0px 30px;
+  text-align: left;
+  font-size: small;
 }
 
 /* responsive for small devices*/
