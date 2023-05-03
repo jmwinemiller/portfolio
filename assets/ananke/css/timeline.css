@@ -18,6 +18,7 @@ timeline
   bottom: 0;
   left: 10%;
   margin-left: 1px;
+  border-radius: 6px;
 }
 
 /* Container around content */
@@ -58,7 +59,7 @@ timeline
   content: " ";
   height: 0;
   position: absolute;
-  top: 30px;
+  top: 20px;
   width: 0;
   z-index: 1;
   left: 26px;
@@ -103,6 +104,12 @@ timeline
   padding: 0px 30px;
   text-align: left;
   font-size: small;
+}
+
+.timeline .content .body .about {
+  text-align: left;
+  font-weight: 500;
+  font-size: medium;
 }
 
 /* responsive for small devices*/
