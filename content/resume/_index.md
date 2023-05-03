@@ -283,3 +283,172 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
   {{</ education >}}
 
 {{</ resume >}}
+
+### Professional Development
+
+{{< resume >}}
+
+  {{< joint-container >}}
+
+  {{< organization "American Statistical Association" >}}
+
+    {{< organization-detail
+      course="Joint Statistical Meetings"
+      date="2019 - 2022" >}}
+
+    {{< organization-detail
+      course="Weight Methods in Surveys"
+      date=2020 >}}
+
+    {{< organization-detail
+      course="Bayesian Thinking: Fundamentals, Regression, and Multilevel Modeling"
+      date="2020" >}}
+
+  {{</ organization >}}
+
+  {{< organization "Kansas-Western Missouri Chapter" >}}
+
+    {{< organization-detail
+      course="Bayesian Spatially Varying Coefficient Models with Functional Predictors"
+      date="2023" >}}
+
+    {{< organization-detail
+      course="Charting Your Course for Leadership Success"
+      date="2022" >}}
+
+    {{< organization-detail
+      course="Introduction to Structural Equation Modeling"
+      date="2021" >}}
+
+    {{< organization-detail
+      course="Introduction to R for Data Science"
+      date="2019" >}}
+
+  {{</ organization >}}
+
+  {{< organization
+    "15th Annual Innovations in Design, Analysis, and Dissemination" >}}
+
+    {{< organization-detail
+      course="Frontiers in Biostatistics and Data Science"
+      date="2022" >}}
+
+  {{</ organization >}}
+
+  {{< organization "Joint Statistical Meetings Short Courses" >}}
+
+    {{< organization-detail
+      course="Analyzing Restricted Mean Survival Time" >}}
+
+    {{< organization-detail
+      course="Bayesian Time Series Analysis and Forecasting" >}}
+
+    {{< organization-detail
+      course="SAS Bayesian Generalized Linear Mixed Models" >}}
+
+    {{< organization-detail
+      course="SAS Causal Effect Estimation with Observation Data" >}}
+
+    {{< organization-detail
+      course="SAS Practical Causal Mediation Analysis" >}}
+
+    {{< organization-detail
+      course="SAS Geospatial Analysis" >}}
+
+  {{</ organization >}}
+
+  {{</ joint-container >}}
+
+{{</ resume >}}
+
+### Professional Affiliations
+
+{{< resume >}}
+
+  {{< joint-container >}}
+
+    {{< organization "Mu Sigma Rho" >}}
+
+      {{< organization-detail
+        course="National Statistical Honor Society"
+        date="2019 - Present">}}
+
+    {{</ organization >}}
+
+    {{< organization "American Statistical Association" >}}
+
+      {{< organization-detail
+        course="Member"
+        date="2018 - Present">}}
+
+    {{</ organization >}}
+
+    {{< organization "USA Rugby" >}}
+
+      {{< organization-detail
+        course="World Rugby Level 1 Referee"
+        date="2020 - Present">}}
+
+      {{< organization-detail
+        course="USA Rugby L100 Coach"
+        date="2020 - Present">}}
+
+      {{< organization-detail
+        course="Senior Club Member"
+        date="2010 - Present">}}
+
+    {{</ organization >}}
+
+  {{</ joint-container >}}
+
+{{</ resume >}}
+
+### Community Service
+
+{{< resume >}}
+
+  {{< joint-container >}}
+
+    {{< organization "Kansas City Blues RFC" >}}
+
+      {{< organization-detail
+        course="Executive Board Member"
+        date="2019 - Present">}}
+
+      {{< organization-detail
+        course="Treasurer"
+        date="2018 - Present">}}
+
+      {{< organization-detail
+        course="Club Member"
+        date="2010 - 2018">}}
+
+    {{</ organization >}}
+
+    {{< organization "Civil Air Patrol" >}}
+
+      {{< organization-detail
+        course="Cadet Program Management Officer"
+        date="2005 - 2010">}}
+
+      {{< organization-detail
+        course="Emergency Services Training Officer"
+        date="2006 - 2009">}}
+
+      {{< organization-detail
+        course="Cadet"
+        date="2000 - 2006">}}
+
+    {{</ organization >}}
+
+    {{< organization "Boy Scouts of America" >}}
+
+      {{< organization-detail
+        course="Eagle Scout"
+        date="1997 - 2003">}}
+
+    {{</ organization >}}
+
+  {{</ joint-container >}}
+
+{{</ resume >}}

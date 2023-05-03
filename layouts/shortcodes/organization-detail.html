@@ -1,0 +1,9 @@
+<!--organization-detail.html-->
+{{ $event_date := ne ( .Get "date" ) "" }}
+{{ if $event_date }}
+  <span class="course">{{ .Get "course" }},</span>
+{{ else }}
+  <span class="course">{{ .Get "course" }}</span>
+{{ end }}
+<span class="course-date">{{ .Get "date" }}</span>
+<br>

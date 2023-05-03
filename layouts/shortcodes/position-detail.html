@@ -1,5 +1,5 @@
 <!--position-detail.html-->
-{{ $section := ne (.Get "section")  "" }}
+{{ $section := ne ( .Get "section" )  "" }}
 <div class="position">
   {{ if $section }}
   <div class="section">{{ .Get "section" }}</div>

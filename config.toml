@@ -28,7 +28,7 @@ enableRobotsTXT = true
   site_logo = ""
   description = "Personal data science and statistics portfolio site."
   recent_posts_number = 4
-  custom_css = ["education.css", "page-link.css", "resume.css", "timeline.css"]
+  custom_css = ["education.css", "organization.css", "page-link.css", "resume.css", "timeline.css"]
 
 [[params.ananke_socials]]
   name = "github"
