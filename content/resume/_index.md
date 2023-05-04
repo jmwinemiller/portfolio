@@ -167,12 +167,12 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
     {{< position-detail
       section="Key Responsibilities"
       >}}
-
-    {{</ position-detail >}}
       <li>Implemented DDL triggers to track database changes prior to deployments</li>
       <li>Implemented methods to increase performance in pre-existing ETL processes</li>
       <li>Implemented internal concurrent queues to stop race conditions in service layer in .NET</li>
       <li>Managed Microsoft SQL Server, PostgreSQL, RabbitMQ, and NoSQL instances for SAAS platforms</li>
+    {{</ position-detail >}}
+
   {{</ position >}}
 
   {{< position
