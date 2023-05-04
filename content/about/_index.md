@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "Data science professional with 10+ years of hands-on experience in advanced analytics, software engineering, statistics, and applied machine learning."
+description: "Experienced data science professional with over a decade of hands-on experience in advanced analytics, software engineering, statistics, and applied machine learning. Proficient in various technologies, including SQL, NoSQL, Python, R, and PySpark, with skills in constructing machine learning solutions. Proficient in software development and machine learning lifecycle methodologies, providing automated, scalable enterprise product solutions."
 date: 2023-04-13T10:51:26-05:00
 menu: main
 featured_image: "aspen.jpg"
@@ -13,7 +13,7 @@ featured_image: "aspen.jpg"
 {{< timeline >}}
 
   {{< about date="2023" >}}
-    Completed courses on geospatial data, computer vision, natural language processing, reinforcement learning models in python
+    Finished studying courses in Python related to geospatial data analysis, computer vision, natural language processing, and reinforcement learning models
   {{</ about >}}
 
   {{< about date="2022" >}}
@@ -52,7 +52,7 @@ featured_image: "aspen.jpg"
   {{< about date="2018" >}}
     Coursework in advanced statistical computing with SAS and multivariate statistics
     <br>
-    Completed courses including advanced Python, containers, system architecture, and machine learning
+    Completed courses in advanced Python programming, containers, system architecture, and machine learning
   {{</ about >}}
 
   {{< about date="2017" >}}
@@ -62,13 +62,13 @@ featured_image: "aspen.jpg"
   {{</ about >}}
 
   {{< about date="2016" >}}
-    Coursework in data analysis with R and Python and statistical computing using SAS
+    Coursework in data analysis utilizing R and Python, as well as statistical computing with SAS
     <br>
-    Completed 17 Pluralsight courses including C#, D3.js, Java, Python, business intelligence, data warehousing, and machine learning
+    Additionally, completed 17 Pluralsight courses, which include topics such as C#, D3.js, Java, Python, business intelligence, data warehousing, and machine learning
   {{</ about >}}
 
   {{< about date="2014" >}}
-    Courses in mathematical statistics, probability, and economics from the society of actuaries
+    Studied courses in mathematical statistics, probability, and economics from the society of actuaries
     <br>
     Associate, Life Management Institute from LOMA
   {{</ about >}}
@@ -84,11 +84,11 @@ featured_image: "aspen.jpg"
   {{</ education >}}
 
   {{< about date="2013" >}}
-    Mechnical Engineering work training including data analysis and warehousing and programming in Python and C#
+    As part of my training in Mechanical Engineering, I have received instruction in data analysis and warehousing, as well as programming experience in both Python and C#
   {{</ about >}}
 
   {{< about date="2011">}}
-    Coursework in advanced mathematics and statistics using MATLAB, SPSS, Microsoft Excel, and R
+    Completed coursework in advanced mathematics and statistics utilizing various software packages, including MATLAB, SPSS, Microsoft Excel, and R
   {{</ about >}}
 
   {{< about date="2009">}}
