@@ -12,11 +12,11 @@ Holds a M.S. in Applied Statistics and Analytics from the University of Kansas M
 
 Has over 6+ years leading teams as a mentor to analysts, engineers, and scientists. Collaborating with stakeholders functioning in a variety of data driven fields including data science, architecture, warehousing, and governance.
 
-{{< resume_link JordanWinemiller_CV "full CV" >}}
+{{< pdf-link JordanWinemiller_CV "full CV" >}}
 
 #
 
-{{< resume_link JordanWinemiller_Resume "summary Resume" >}}
+{{< pdf-link JordanWinemiller_Resume "summary Resume" >}}
 
 ## Curriculum Vitae
 
