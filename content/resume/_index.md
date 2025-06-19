@@ -6,17 +6,22 @@ menu: main
 featured_image: "cardiff.jpg"
 ---
 
-Data science professional with 10+ years of hands-on experience in advanced analytics, software engineering, statistics, and applied machine learning. Constructing machine learning solutions in various technologies including SQL, NoSQL, Python, R, and PySpark. Efficiently using software development and machine learning lifecycle methodologies to provide automated scalable enterprise product solutions.
+Data science professional with 12+ years of hands-on experience in advanced analytics, software engineering, 
+statistics, and applied machine learning. Constructing machine learning solutions in various technologies including 
+SQL, NoSQL, C++, Python, PySpark, R, and Rust. Efficiently using software development and machine learning lifecycle 
+methodologies to provide automated scalable enterprise product solutions.
 
-Holds a M.S. in Applied Statistics and Analytics from the University of Kansas Medical Center, a Biostatistics Graduate Certificate from the University of Kansas Medical Center, a B.S. in Mathematics and Statistics from the University of Missouri-Kansas City, and has continued regularly attending data science and statistics seminars.
+Holds a M.S. in Applied Statistics and Analytics from the University of Kansas Medical Center, a Biostatistics 
+Graduate Certificate from the University of Kansas Medical Center, a B.S. in Mathematics and Statistics from the University of Missouri-Kansas City, and has continued regularly attending data science and statistics seminars.
 
-Has over 6+ years leading teams as a mentor to analysts, engineers, and scientists. Collaborating with stakeholders functioning in a variety of data driven fields including data science, architecture, warehousing, and governance.
+Has over 8+ years leading teams as a mentor to analysts, engineers, and scientists. Collaborating with stakeholders 
+functioning in a variety of data driven fields including data science, architecture, warehousing, and governance.
 
 {{< pdf-link JordanWinemiller_CV "full CV" >}}
 
 #
 
-{{< pdf-link JordanWinemiller_Resume "summary Resume" >}}
+[//]: # ({{< pdf-link JordanWinemiller_Resume "summary Resume" >}})
 
 ## Curriculum Vitae
 
@@ -25,9 +30,53 @@ Has over 6+ years leading teams as a mentor to analysts, engineers, and scientis
 {{< resume >}}
 
   {{< position
+    title="CareFirst BCBS - FEPOC - Lead Data Scientist"
+    department="Machine Learning Team for Health Insurance"
+    duration="2 years 2 months"
+    year="2023" >}}
+
+    {{< position-detail
+      section="Projects"
+      >}}
+        <li>Productionized the company tailored generative AI chatbot with AWS hosted large language model and retrieval-augmented generation</li>
+        <li>Built automation for AWS Lambda for Compass generative AI product to move towards continuous integration and deployment</li>
+        <li>Built the backend service to facilitate the generative AI chatbot orchestration</li>
+        <li>Created the custom AWS SageMaker service to automate the machine learning models in cloud environment</li>
+        <li>Migrated on-premises machine learning models to Amazon Web Services with continuous integration and delivery</li>
+        <li>Built new claim adjudication machine learning model to identify over payments for additional professional services rendered during surgery claims</li>
+    {{</ position-detail >}}
+
+    {{< position-detail
+      section="Research"
+      >}}
+        <li>Developed the proof-of-concept for company-specific generative AI product using large language models</li>
+        <li>Developed the feedback data design for testing large language model accuracy and usage statistics</li>
+        <li>Designed Human-in-the-Loop reinforcement learning testing for large language models</li>
+        <li>Designed a structured prompt garden for large language model based on the user’s role</li>
+        <li>Examined procedures to expand the technology stack to include agentic models</li>
+        <li>Designed automated evaluation framework for models metrics</li>
+        <li>Integrated machine learning frameworks into the data science toolset in local and cloud environments</li>
+        <li>Implemented security and standards around code reviews and source control</li>
+    {{</ position-detail >}}
+
+    {{< position-detail
+      section="Key Responsibilities"
+      >}}
+        <li>Presented continuous communications to the Director’s office for the machine learning team for model and engineering improvements</li>
+        <li>Led the implementation for machine learning and data science best practices</li>
+        <li>Designed the coding standards and guides for the machine learning and generative AI teams</li>
+        <li>Improved existing machine learning models to meet updated requirements from the business</li>
+        <li>Built reusable patterns, services, and utilities to expedite development within the machine learning team</li>
+        <li>Designed deployment pipelines for continuous integration and deployment for machine learning team</li>
+        <li>Collaborated with architecture review boards to enhance data science toolsets and machine learning frameworks</li>
+    {{</ position-detail >}}
+
+  {{</ position >}}
+
+  {{< position
     title="AdPredictive - Senior Data Scientist"
     department="Intelligent Advertising for Marketing Solutions"
-    duration="2 years 7 months"
+    duration="2 years 8 months"
     year="2020" >}}
 
     {{< position-detail
