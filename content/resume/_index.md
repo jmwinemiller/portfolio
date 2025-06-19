@@ -14,7 +14,7 @@ methodologies to provide automated scalable enterprise product solutions.
 Holds a M.S. in Applied Statistics and Analytics from the University of Kansas Medical Center, a Biostatistics 
 Graduate Certificate from the University of Kansas Medical Center, a B.S. in Mathematics and Statistics from the University of Missouri-Kansas City, and has continued regularly attending data science and statistics seminars.
 
-Has over 8+ years leading teams as a mentor to analysts, engineers, and scientists. Collaborating with stakeholders 
+Over 8+ years leading teams as a mentor to analysts, engineers, and scientists. Collaborating with stakeholders 
 functioning in a variety of data driven fields including data science, architecture, warehousing, and governance.
 
 {{< pdf-link JordanWinemiller_CV "full CV" >}}
